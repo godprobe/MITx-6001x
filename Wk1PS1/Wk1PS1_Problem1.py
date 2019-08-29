@@ -6,5 +6,5 @@ count = 0
 for x in s.lower():
 	if x in 'aeiou': count += 1
 
-print("Number of vowels: {}".format(count))
+print("Number of vowels:", count)
 
